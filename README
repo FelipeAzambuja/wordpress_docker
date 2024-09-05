@@ -1,0 +1,14 @@
+pagina do site
+http://localhost:81/
+pagina do adminer
+http://localhost:881/
+mysql
+host : db
+user : wordpress
+password : wordpress
+database : wordpress
+
+
+docker-compose up -d
+
+docker-compose down
